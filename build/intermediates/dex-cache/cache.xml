@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\pre-dexed\debug\classes-1f2385c81b7e32910449ed9c61761f827c10d3db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-02f4e6d73d0235c10edab2396a50592150cf1d17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\pre-dexed\debug\classes-6d8e59062d0adb7a320c255268b4a762e4b75864.jar" />
+    </item>
+    <item
+        jar="E:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Hmin\AndroidstudioProjects\2015_TenByTen\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e9b82aec22cac8ce4c78c3f01720bda453c43931.jar" />
+    </item>
+
+</items>

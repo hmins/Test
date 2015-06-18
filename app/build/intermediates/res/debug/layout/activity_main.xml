@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hmin.tenbyten.MainActivity" 
+    android:background="#404040">
+    <View 
+        android:id="@+id/title"
+        android:layout_width="128dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/title"
+        android:layout_gravity="center_horizontal"/>
+    <TextView 
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="right"
+        android:textSize="35dp"
+        android:textColor="#FFC0C0FF"
+        android:gravity="center"/>
+
+    <com.hmin.tenbyten.block.BlockMap
+    	android:id="@+id/blockmap"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="25dp"/>
+
+    
+</FrameLayout>
+<!-- From: file:/C:/Users/Hmin/AndroidstudioProjects/2015_TenByTen/app/src/main/res/layout/activity_main.xml -->
