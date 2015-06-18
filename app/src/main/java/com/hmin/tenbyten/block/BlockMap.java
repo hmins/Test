@@ -146,6 +146,7 @@ public class BlockMap extends View{
 
 		int xIdx = dx/mBlockLength;
 		int yIdx = dy/mBlockLength;
+
 		
 		if(dx < 0)
 			xIdx--;
